@@ -7,6 +7,8 @@ h1{
     font-size: 50px;
 }
 
+
+
 .tomatoo{
     color: tomato;
 }
@@ -41,5 +43,12 @@ section{
 .top_banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 10%;
+}
 
+.dream_big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 10%;
+    background-position: right;
 }
